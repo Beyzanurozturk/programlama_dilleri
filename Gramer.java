@@ -1,5 +1,5 @@
 
-package com.mycompany.gramer_odevi;
+package com.mycompany.gramer;
 
 import java.util.Scanner;
 
